@@ -1,0 +1,14 @@
+{
+  "timeZone": "Asia/Kolkata",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Pokeemon",
+    "description": "The unofficial connector to access Pokeemon data",
+    "company": "Pranav",
+    "logoUrl": "https://pbs.twimg.com/media/EVMsvkkU4AgdjLY.jpg",
+    "addonUrl": "https://github.com/",
+    "supportUrl": "https://github.com/"
+  }
+}
